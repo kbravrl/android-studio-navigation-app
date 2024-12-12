@@ -1,27 +1,27 @@
 # android-studio-navigation-app
 
-This Android app combines the Bottom Navigation View and Navigation Drawer components, allowing users to switch between app sections with both a bottom menu and a side menu.
-The application offers a user-friendly interface and each menu option uses fragment structure to display different content.
+Bu Android uygulaması, Bottom Navigation View ve Navigation Drawer bileşenlerini birleştirerek kullanıcıların hem alt menüyle hem de yan menüyle uygulama bölümleri arasında geçiş yapmasını sağlar.
+Uygulama, kullanıcı dostu bir arayüz sunar ve her menü seçeneği farklı içerikleri göstermek için fragment yapısını kullanır.
 
-## Bottom Navigation Bar Features
+## Alt Gezinme Çubuğu Özellikleri
 
-  - Home
-  - Search
-  - Settings
-  - Profile
-    
-## Navigation Drawer Features
+- Ana Sayfa
+- Arama
+- Ayarlar
+- Profil
 
-  - Home
-  - Settings
-  - Share
-  - About Us
-  - Logout
-    
-## Requirements
+## Gezinme Çekmecesi Özellikleri
+
+- Ana Sayfa
+- Ayarlar
+- Paylaş
+- Hakkımızda
+- Çıkış
+
+## Gereksinimler
 
 - Android Studio
-- Java Development Kit (JDK)
-- XML for UI design
+- Java Geliştirme Kiti (JDK)
+- UI tasarımı için XML
 
 [android-studio-navigation-app.webm](https://github.com/user-attachments/assets/93698de4-2c16-403e-9036-528387ae934c)
